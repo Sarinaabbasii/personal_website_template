@@ -16,6 +16,8 @@ main:
     url: /blog/
   - title: "khatereh"
     url: /khatereh/
+  - title: "my clases"
+    url: /my classes/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
