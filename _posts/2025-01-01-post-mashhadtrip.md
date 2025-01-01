@@ -7,4 +7,4 @@ title: مسافرت مشهد
 
 ![alt text](../assets/images/20241018_051012[1].jpg "حرم امام رضا")
 
-<!-- <img src ="../assets/images/20241018_051012[1].jpg"> -->
+
