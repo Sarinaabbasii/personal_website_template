@@ -6,4 +6,4 @@ title: مسافرت مشهد
 
 
 
-<img src = /assets/images/20241018_051012[1].jpg>
+<img src ="assets/images/20241018_051012[1].jpg">
